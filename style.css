@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    padding: 500px;
+}
+
+.flag {
+    background-color: red;
+    border: solid red 1px;
+    height: 1000px;
+    width: 1900px;
+    padding: 0px;
+}
+
+.top-half {
+    display: inline-block;
+    padding: 0px;
+}
+
+.blue-box {
+    background-color: blue;
+    height: 400px;
+    width: 700px;
+    display: inline-block;
+}
+
+.circle {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    margin: 60px 80px 60px 60px;
+    border-radius: 20px;
+}
+
+.top-box-stripe {
+    display: inline-block;
+
+}
+
+.white-stripe {
+    width: 1160px;
+    height: 40px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 0px;
+}
+
+.white-stripe-bottom {
+    width: 1860px;
+    height: 40px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 0px;
+    
+}
+
+.row-stars {
+    display: inline-block;
+}
+
+.star-field {
+    padding: 20px;
+}
